@@ -1,0 +1,11 @@
+D:\Mphasis\Live-Session\Phase-3\Day1\CalculatorTestProj\CalcLib\bin\Debug\net6.0\CalcLib.deps.json
+D:\Mphasis\Live-Session\Phase-3\Day1\CalculatorTestProj\CalcLib\bin\Debug\net6.0\CalcLib.dll
+D:\Mphasis\Live-Session\Phase-3\Day1\CalculatorTestProj\CalcLib\bin\Debug\net6.0\CalcLib.pdb
+D:\Mphasis\Live-Session\Phase-3\Day1\CalculatorTestProj\CalcLib\obj\Debug\net6.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Live-Session\Phase-3\Day1\CalculatorTestProj\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfoInputs.cache
+D:\Mphasis\Live-Session\Phase-3\Day1\CalculatorTestProj\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfo.cs
+D:\Mphasis\Live-Session\Phase-3\Day1\CalculatorTestProj\CalcLib\obj\Debug\net6.0\CalcLib.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live-Session\Phase-3\Day1\CalculatorTestProj\CalcLib\obj\Debug\net6.0\CalcLib.dll
+D:\Mphasis\Live-Session\Phase-3\Day1\CalculatorTestProj\CalcLib\obj\Debug\net6.0\refint\CalcLib.dll
+D:\Mphasis\Live-Session\Phase-3\Day1\CalculatorTestProj\CalcLib\obj\Debug\net6.0\CalcLib.pdb
+D:\Mphasis\Live-Session\Phase-3\Day1\CalculatorTestProj\CalcLib\obj\Debug\net6.0\ref\CalcLib.dll
