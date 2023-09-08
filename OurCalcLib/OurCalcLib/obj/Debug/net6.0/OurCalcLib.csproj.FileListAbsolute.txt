@@ -1,0 +1,22 @@
+D:\Mphasis\Live Session\Phase 3\Day1\OurCalcLib\OurCalcLib\bin\Debug\net6.0\OurCalcLib.deps.json
+D:\Mphasis\Live Session\Phase 3\Day1\OurCalcLib\OurCalcLib\bin\Debug\net6.0\OurCalcLib.dll
+D:\Mphasis\Live Session\Phase 3\Day1\OurCalcLib\OurCalcLib\bin\Debug\net6.0\OurCalcLib.pdb
+D:\Mphasis\Live Session\Phase 3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Live Session\Phase 3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.AssemblyInfoInputs.cache
+D:\Mphasis\Live Session\Phase 3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.AssemblyInfo.cs
+D:\Mphasis\Live Session\Phase 3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Phase 3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.dll
+D:\Mphasis\Live Session\Phase 3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\refint\OurCalcLib.dll
+D:\Mphasis\Live Session\Phase 3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.pdb
+D:\Mphasis\Live Session\Phase 3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\ref\OurCalcLib.dll
+D:\Mphasis\Live-Session\Phase-3\Day1\OurCalcLib\OurCalcLib\bin\Debug\net6.0\OurCalcLib.deps.json
+D:\Mphasis\Live-Session\Phase-3\Day1\OurCalcLib\OurCalcLib\bin\Debug\net6.0\OurCalcLib.dll
+D:\Mphasis\Live-Session\Phase-3\Day1\OurCalcLib\OurCalcLib\bin\Debug\net6.0\OurCalcLib.pdb
+D:\Mphasis\Live-Session\Phase-3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Live-Session\Phase-3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.AssemblyInfoInputs.cache
+D:\Mphasis\Live-Session\Phase-3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.AssemblyInfo.cs
+D:\Mphasis\Live-Session\Phase-3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live-Session\Phase-3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.dll
+D:\Mphasis\Live-Session\Phase-3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\refint\OurCalcLib.dll
+D:\Mphasis\Live-Session\Phase-3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.pdb
+D:\Mphasis\Live-Session\Phase-3\Day1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\ref\OurCalcLib.dll
