@@ -1,0 +1,9 @@
+D:\Mphasis\Live-Session\Phase-3\Day2\OurNUnitLib\OurNUnitLib\bin\Debug\OurNUnitLib.dll
+D:\Mphasis\Live-Session\Phase-3\Day2\OurNUnitLib\OurNUnitLib\bin\Debug\OurNUnitLib.pdb
+D:\Mphasis\Live-Session\Phase-3\Day2\OurNUnitLib\OurNUnitLib\bin\Debug\nunit.framework.dll
+D:\Mphasis\Live-Session\Phase-3\Day2\OurNUnitLib\OurNUnitLib\bin\Debug\nunit.framework.xml
+D:\Mphasis\Live-Session\Phase-3\Day2\OurNUnitLib\OurNUnitLib\obj\Debug\OurNUnitLib.csproj.AssemblyReference.cache
+D:\Mphasis\Live-Session\Phase-3\Day2\OurNUnitLib\OurNUnitLib\obj\Debug\OurNUnitLib.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live-Session\Phase-3\Day2\OurNUnitLib\OurNUnitLib\obj\Debug\OurNUnitLib.csproj.CopyComplete
+D:\Mphasis\Live-Session\Phase-3\Day2\OurNUnitLib\OurNUnitLib\obj\Debug\OurNUnitLib.dll
+D:\Mphasis\Live-Session\Phase-3\Day2\OurNUnitLib\OurNUnitLib\obj\Debug\OurNUnitLib.pdb
