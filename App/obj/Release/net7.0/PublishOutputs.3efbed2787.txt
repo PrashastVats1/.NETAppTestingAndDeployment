@@ -1,0 +1,5 @@
+D:\Mphasis\Live-Session\Phase-3\App\bin\Release\net7.0\publish\CountingApp.exe
+D:\Mphasis\Live-Session\Phase-3\App\bin\Release\net7.0\publish\CountingApp.dll
+D:\Mphasis\Live-Session\Phase-3\App\bin\Release\net7.0\publish\CountingApp.deps.json
+D:\Mphasis\Live-Session\Phase-3\App\bin\Release\net7.0\publish\CountingApp.runtimeconfig.json
+D:\Mphasis\Live-Session\Phase-3\App\bin\Release\net7.0\publish\CountingApp.pdb

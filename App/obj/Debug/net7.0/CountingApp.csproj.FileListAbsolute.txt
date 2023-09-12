@@ -1,0 +1,14 @@
+D:\Mphasis\Live-Session\Phase-3\App\bin\Debug\net7.0\CountingApp.exe
+D:\Mphasis\Live-Session\Phase-3\App\bin\Debug\net7.0\CountingApp.deps.json
+D:\Mphasis\Live-Session\Phase-3\App\bin\Debug\net7.0\CountingApp.runtimeconfig.json
+D:\Mphasis\Live-Session\Phase-3\App\bin\Debug\net7.0\CountingApp.dll
+D:\Mphasis\Live-Session\Phase-3\App\bin\Debug\net7.0\CountingApp.pdb
+D:\Mphasis\Live-Session\Phase-3\App\obj\Debug\net7.0\CountingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Live-Session\Phase-3\App\obj\Debug\net7.0\CountingApp.AssemblyInfoInputs.cache
+D:\Mphasis\Live-Session\Phase-3\App\obj\Debug\net7.0\CountingApp.AssemblyInfo.cs
+D:\Mphasis\Live-Session\Phase-3\App\obj\Debug\net7.0\CountingApp.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live-Session\Phase-3\App\obj\Debug\net7.0\CountingApp.dll
+D:\Mphasis\Live-Session\Phase-3\App\obj\Debug\net7.0\refint\CountingApp.dll
+D:\Mphasis\Live-Session\Phase-3\App\obj\Debug\net7.0\CountingApp.pdb
+D:\Mphasis\Live-Session\Phase-3\App\obj\Debug\net7.0\CountingApp.genruntimeconfig.cache
+D:\Mphasis\Live-Session\Phase-3\App\obj\Debug\net7.0\ref\CountingApp.dll
